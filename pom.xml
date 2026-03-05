@@ -11,7 +11,6 @@
     <packaging>jar</packaging>
 
     <dependencies>
-        <!-- vulnerable version for testing -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
